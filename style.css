@@ -84,8 +84,8 @@ body {
 
 .img-gift-center {
     position: fixed;           /* Định vị cố định trên màn hình */
-    right: -275px;               /* Cách lề phải 40px (có thể điều chỉnh) */
-    top: 50%;                  /* Căn giữa theo chiều dọc */
+    right: 0px;               /* Cách lề phải 40px (có thể điều chỉnh) */
+    top: 70%;                  /* Căn giữa theo chiều dọc */
     transform: translateY(-50%); /* Dịch lên trên 50% chiều cao chính nó để căn giữa hoàn hảo */
     margin: 0;                 /* Loại bỏ margin auto nếu không cần thiết */
     border-radius: 10px;
